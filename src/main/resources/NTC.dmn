@@ -30,6 +30,17 @@
           <dmn:text/>
         </dmn:annotationEntry>
       </dmn:rule>
+      <dmn:rule id="_5242CDFB-7072-44FE-A116-9C98AA0EB9FB">
+        <dmn:inputEntry id="_C164A86F-8F4A-4E59-890B-17691B3424DF">
+          <dmn:text>"Jim"</dmn:text>
+        </dmn:inputEntry>
+        <dmn:outputEntry id="_E900DE54-385A-4605-BE4D-6F046A96940D">
+          <dmn:text>true</dmn:text>
+        </dmn:outputEntry>
+        <dmn:annotationEntry>
+          <dmn:text/>
+        </dmn:annotationEntry>
+      </dmn:rule>
       <dmn:rule id="_9E38FA55-5628-4096-905F-117DDFF726B5">
         <dmn:inputEntry id="_EEAF6D3D-DB1F-4981-B2A7-D9C1F057293F">
           <dmn:text>-</dmn:text>
