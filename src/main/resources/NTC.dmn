@@ -41,6 +41,17 @@
           <dmn:text/>
         </dmn:annotationEntry>
       </dmn:rule>
+      <dmn:rule id="_2EC6EEAB-4BA7-4876-95D3-6BF74975BF31">
+        <dmn:inputEntry id="_E2B29512-115E-4DFB-85D0-B228B394BEFB">
+          <dmn:text>"Mary"</dmn:text>
+        </dmn:inputEntry>
+        <dmn:outputEntry id="_CD62604C-7F40-472E-9C65-90A54F282B1A">
+          <dmn:text>true</dmn:text>
+        </dmn:outputEntry>
+        <dmn:annotationEntry>
+          <dmn:text/>
+        </dmn:annotationEntry>
+      </dmn:rule>
       <dmn:rule id="_9E38FA55-5628-4096-905F-117DDFF726B5">
         <dmn:inputEntry id="_EEAF6D3D-DB1F-4981-B2A7-D9C1F057293F">
           <dmn:text>-</dmn:text>
